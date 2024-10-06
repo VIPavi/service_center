@@ -278,12 +278,12 @@ small.role {
 .count {
     font-size: 3em;
     font-weight: bold;
-    color: #4caf50; /* Green color for positive vibe */
+    color: #4caf50; 
 }
 
 .plus {
-    font-size: 0.6em; /* Smaller size for the plus sign */
-    vertical-align: super; /* Aligns the plus sign above the baseline */
+    font-size: 0.6em; 
+    vertical-align: super;
 }
 
 .label {
@@ -294,18 +294,18 @@ small.role {
 
 @media (max-width: 600px) {
     .count {
-        font-size: 1.5em; /* Adjust font size for smaller screens */
+        font-size: 1.5em; 
     }
     .label {
-        font-size: 1em; /* Adjust label size for smaller screens */
+        font-size: 1em; 
     }
 }
 
 @media (max-width: 600px) {
     .count {
-        font-size: 1.5em; /* Adjust font size for smaller screens */
+        font-size: 1.5em; 
     }
     .label {
-        font-size: 1em; /* Adjust label size for smaller screens */
+        font-size: 1em;
     }
 }
