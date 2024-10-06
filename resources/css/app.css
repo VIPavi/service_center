@@ -259,3 +259,53 @@ small.role {
         font-size: 1.15rem;
     }
 }
+
+.iframe-container iframe {
+    height: 30rem;
+}
+
+#counts {
+    background-color: #f4f4f4;
+}
+
+.counter {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.count {
+    font-size: 3em;
+    font-weight: bold;
+    color: #4caf50; /* Green color for positive vibe */
+}
+
+.plus {
+    font-size: 0.6em; /* Smaller size for the plus sign */
+    vertical-align: super; /* Aligns the plus sign above the baseline */
+}
+
+.label {
+    font-size: 1.2em;
+    color: #666;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .count {
+        font-size: 1.5em; /* Adjust font size for smaller screens */
+    }
+    .label {
+        font-size: 1em; /* Adjust label size for smaller screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .count {
+        font-size: 1.5em; /* Adjust font size for smaller screens */
+    }
+    .label {
+        font-size: 1em; /* Adjust label size for smaller screens */
+    }
+}
