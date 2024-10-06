@@ -223,6 +223,11 @@ small.role {
     cursor: pointer;
 }
 
+#gallery img:hover {
+    scale: 1.1;
+    transition: all 0.3s ease-in;
+}
+
 #image-full-view {
     overflow: hidden;
 }
