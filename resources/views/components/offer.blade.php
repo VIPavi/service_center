@@ -8,10 +8,10 @@
                     <span class="text-light fw-bold">Range Repair, Cooktop Repair, Gas Chulha Service Near You!</span>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <a href="tel:9855697001" class="btn btn-md btn-outline-success border-white text-white fw-bolder me-2">
+                    <a href="tel:8968157045" class="btn btn-md btn-outline-success border-white text-white fw-bolder me-2">
                         Click to Call
                     </a>
-                    <a href="https://wa.me/919855697001" class="btn btn-md btn-outline-primary fw-bolder">WhatsApp Chat</a>
+                    <a href="https://wa.me/918968157045" class="btn btn-md btn-outline-primary fw-bolder">WhatsApp Chat</a>
                 </div>
             </div>
         </div>

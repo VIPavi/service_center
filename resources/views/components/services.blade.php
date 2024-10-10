@@ -11,7 +11,7 @@
                             <span>Are You Facing Issue with Your Gas</span>
                             <span>Stove Repair & Service. Contact Us.</span>
                         </div>
-                        <a href="#" class="btn btn-primary">Call Now</a>
+                        <a href="tel:8968157045" class="btn btn-primary">Call Now</a>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                             <span>We Provide All Type of Gas Hob Service</span>
                             <span>Like 2,3,4,5 Burners.</span>
                         </div>
-                        <a href="#" class="btn btn-primary">Call Now</a>
+                        <a href="tel:8968157045" class="btn btn-primary">Call Now</a>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                             <span>Keep Your Chimney Clean & Safe With</span>
                             <span>Our Chimney Cleaning Service.</span>
                         </div>
-                        <a href="#" class="btn btn-primary">Call Now</a>
+                        <a href="tel:8968157045" class="btn btn-primary">Call Now</a>
                     </div>
                 </div>
             </div>

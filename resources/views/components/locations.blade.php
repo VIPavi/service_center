@@ -10,21 +10,21 @@
             <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
-                    <span class="fs-4 fw-bolder text-body-secondary">Ludhiana</span>
+                    <span class="fs-4 fw-bolder text-body-secondary">New Chandigarh</span>
                 </div>
             </div>
-            <div class="col">
+            {{-- <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
                     <span class="fs-4 fw-bolder text-body-secondary">Jalandhar</span>
                 </div>
-            </div>
-            <div class="col">
+            </div> --}}
+            {{-- <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
                     <span class="fs-4 fw-bolder text-body-secondary">Patiala</span>
                 </div>
-            </div>
+            </div> --}}
             <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
@@ -34,7 +34,7 @@
             <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
-                    <span class="fs-4 fw-bolder text-body-secondary">Zirakpur</span>
+                    <span class="fs-4 fw-bolder text-body-secondary">Panchkula</span>
                 </div>
             </div>
             <div class="col">
@@ -46,21 +46,21 @@
             <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
-                    <span class="fs-4 fw-bolder text-body-secondary">Hoshiarpur</span>
+                    <span class="fs-4 fw-bolder text-body-secondary">Zirakpur</span>
                 </div>
             </div>
-            <div class="col">
+            {{-- <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
                     <span class="fs-4 fw-bolder text-body-secondary">Nakodar</span>
                 </div>
-            </div>
-            <div class="col">
+            </div> --}}
+            {{-- <div class="col">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-geo-alt-fill"></i>
                     <span class="fs-4 fw-bolder text-body-secondary">Phagwara</span>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </div>

@@ -1,10 +1,7 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand" href="tel:9855697001">
-        <span class="call_no">
-            <i class="bi bi-telephone-fill"></i>
-            <i title="Click Here To Call Support">09855697001</i>
-        </span>
+      <a class="navbar-brand text-white fw-bold" href="/">
+        PerfectGasAndChimneyRepair 
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

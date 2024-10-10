@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-10 nav">
                     <li class="nav-item">
-                        <a href="tel:9855697001" class="text-white">09855697001</a>
+                        <a href="tel:8968157045" class="text-white">8968157045</a>
                     </li>
                 </div>
             </div>
@@ -78,8 +78,8 @@
                 </div>
                 <div class="col-10 nav">
                     <li class="nav-item">
-                        <a href="info@servicecenternearby.online" class="text-white" target="_blank">
-                            info@servicecenternearby.online
+                        <a href="mailto:perfectgaschimneyrepair@gmail.com" class="text-white" target="_blank">
+                            perfectgaschimneyrepair@gmail.com
                         </a>
                     </li>
                 </div>

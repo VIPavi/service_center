@@ -58,7 +58,9 @@
                         </div>
                     </div>
                     <div class="col-10 nav">
-                        <li class="nav-item fs-5 fw-bold">+91 9855697001</li>
+                        <a class="nav-item fs-5 fw-bold text-dark" href="tel:8968157045">
+                            +91 8968157045
+                        </a>
                     </div>
                 </div>
                 <div class="row mb-3 pb-3">
@@ -68,7 +70,7 @@
                         </div>
                     </div>
                     <div class="col-10 nav">
-                        <li class="nav-item fs-5 fw-bold ">info@servicecenternearby.online</li>
+                        <a class="nav-item fs-5 fw-bold text-dark" href="mailto:perfectgaschimneyrepair@gmail.com">perfectgaschimneyrepair@gmail.com</a>
                     </div>
                 </div>
             </div>
