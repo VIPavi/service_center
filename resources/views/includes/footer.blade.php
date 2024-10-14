@@ -53,9 +53,9 @@
                     </div>
                 </div>
                 <div class="col-10 nav">
-                    <li class="nav-item">747, Phase 3B-1, Sector 60,</li>
-                    <li class="nav-item">Sahibzada Ajit Singh Nagar,</li>
-                    <li class="nav-item">Chandigarh, Punjab 160059</li>
+                    {{-- <li class="nav-item">747, Phase 3B-1, Sector 60,</li> --}}
+                    <li class="nav-item">Sector 38 West Chandigarh 160014</li>
+                    {{-- <li class="nav-item">Chandigarh, Punjab 160059</li> --}}
                 </div>
             </div>
             <div class="row mb-2">

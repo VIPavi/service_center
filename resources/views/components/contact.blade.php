@@ -48,7 +48,7 @@
                         </div>
                     </div>
                     <div class="col-10 nav">
-                        <li class="nav-item fs-5 fw-bold">747, Phase 3B-1, Sector 60, Sahibzada Ajit Singh Nagar, Chandigarh, Punjab 160059</li>
+                        <li class="nav-item fs-5 fw-bold">Sector 38 West Chandigarh 160014</li>
                     </div>
                 </div>
                 <div class="row mb-3 pb-3">
