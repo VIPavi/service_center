@@ -15,10 +15,10 @@
                             <img src="/gas-stove-repair.jpg" class="d-block w-100" alt="banner-gas">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="/hob-1.jpg" class="d-block w-100" alt="hob1">
+                            <img src="/hobs.jpg" class="d-block w-100" alt="hob1" height="100">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="/chiimney-hob.jpg" class="d-block w-100" alt="chimney">
+                            <img src="/chimney.webp" class="d-block w-100" alt="chimney" height="100">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
                             <img src="/banner-gas-stove-4.jpg" class="d-block w-100" alt="chimney">
